@@ -1,0 +1,15 @@
+# R artifacts
+*.rds
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+*.Rproj
+
+# Knitr / R Markdown intermediate output
+*_cache/
+*_files/
+
+# OS files
+.DS_Store
+Thumbs.db
